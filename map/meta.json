@@ -1,0 +1,21 @@
+{
+  "origin": {
+    "lng": -123.373028,
+    "lat": 44.055366
+  },
+  "bounds": [
+    [
+      -123.394,
+      44.0485
+    ],
+    [
+      -123.36,
+      44.0625
+    ]
+  ],
+  "center": [
+    -123.3708,
+    44.056
+  ],
+  "builtFrom": "research/ (OSM + georeferenced Peach Pit 2024)"
+}
