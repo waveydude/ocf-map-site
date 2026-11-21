@@ -1,0 +1,18 @@
+{
+  "year": 2026,
+  "revision": "2026-3",
+  "status": "archive",
+  "locations": {
+    "food": "Official directory names joined to digitized booth positions where possible",
+    "crafts": "Official artisan listings joined to digitized booth positions where available",
+    "boothsAndAmenities": "Approximate coordinates digitized from a historical Peach Pit map and OSM anchors",
+    "paths": "OpenStreetMap footway snapshot with an approximate seasonal connection to Farside Path",
+    "performances": "Partial 2026 seed transcription. Some end times are absent."
+  },
+  "sources": [
+    "https://www.oregoncountryfair.org/peachpit/",
+    "https://www.oregoncountryfair.org/about-ocf/general-information/the-map/",
+    "https://www.oregoncountryfair.org/type/food-booths/",
+    "https://www.oregoncountryfair.org/type/artisans/"
+  ]
+}
